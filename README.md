@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a decimal to binary converter you can enter numbers to convert them into binary code. 
+This is a decimal to binary converter that you can enter numbers to convert them into binary code. 
 
 ## Features
 
